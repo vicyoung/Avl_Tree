@@ -1,7 +1,0 @@
-100000 randomized insert and remove:
-Height: 10
-size = 557
-min = 101
-max = 952
-
-AVL tree done.
